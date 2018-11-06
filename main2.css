@@ -270,13 +270,14 @@ hr {
     font-family: 'Lato', sans-serif;
     font-weight: 400;
     width: 95%;
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(255, 255, 255, 0.5);
+    color:black;
 }
 .intern-post, .intern-time {
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: rgba(0, 0, 0, 0.1);
 }
 .intern-box a {
-    color: #337ab7;
+    color: #00A8EF;
 }
 .intern-img {
     margin-top: 10px;
